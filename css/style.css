@@ -194,6 +194,9 @@ footer ul li{
     padding: 0 1rem;
 
 }
+.button svg{
+    width: 1.3rem !important;
+}
 
 
 
